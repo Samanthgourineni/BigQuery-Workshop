@@ -1,0 +1,8 @@
+SELECT stock_symbol, 
+SUM(stock_volume) AS stock_volume
+FROM 
+`velvety-ray-270023.NYSE.NYSE_Stock` 
+GROUP BY
+stock_symbol
+ORDER BY
+stock_symbol
