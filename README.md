@@ -13,3 +13,9 @@
 Links:
 1. [Github hub repo link](https://github.com/Samanthgourineni/BigQuery-Workshop)
 1. [Google BigQuery](https://cloud.google.com/bigquery)
+
+
+References:
+1. https://www.youtube.com/watch?v=qqbYrQGSibQ
+1. https://www.slideshare.net/matthiasfeys/introduction-to-bigquery
+1. https://cloud.google.com/bigquery/docs
