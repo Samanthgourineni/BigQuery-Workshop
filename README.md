@@ -15,7 +15,7 @@ Links:
 1. [Google BigQuery](https://cloud.google.com/bigquery)
 
 # Images:
-![Team Slide](Docs/workshop.png)
+![Team Slide](Docs/workshop.JPG)
 
 References:
 1. https://www.youtube.com/watch?v=qqbYrQGSibQ
