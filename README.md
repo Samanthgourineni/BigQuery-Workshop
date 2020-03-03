@@ -14,6 +14,8 @@ Links:
 1. [Github hub repo link](https://github.com/Samanthgourineni/BigQuery-Workshop)
 1. [Google BigQuery](https://cloud.google.com/bigquery)
 
+# Images:
+![Team Slide](Docs/workshop.png)
 
 References:
 1. https://www.youtube.com/watch?v=qqbYrQGSibQ
