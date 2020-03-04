@@ -19,7 +19,7 @@ Links:
 
 Workshop Guide:
 1. Open the console page of google big query platform , which looks like below.
-    [big query console link](https://console.cloud.google.com/bigquery?utm_source=bqui&utm_medium=link&utm_campaign=classic&project=stunning-ruler-270001)
+2. [big query console link](https://console.cloud.google.com/bigquery?utm_source=bqui&utm_medium=link&utm_campaign=classic&project=stunning-ruler-270001)
 ![console page](Docs/bigquery.JPG)
 
 References:
