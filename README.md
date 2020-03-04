@@ -27,3 +27,4 @@ References:
 1. https://www.youtube.com/watch?v=qqbYrQGSibQ
 1. https://www.slideshare.net/matthiasfeys/introduction-to-bigquery
 1. https://cloud.google.com/bigquery/docs
+1. https://www.toptal.com/database/google-bigquery-tutorial
